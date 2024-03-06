@@ -4,7 +4,7 @@
 int function(int x){
 	x=x-2;
 
-	if (x>=5)
+	if (x>=13)//for vasi
         	x=function(x);
 
 	return x;
